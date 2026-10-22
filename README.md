@@ -1,2 +1,2 @@
 # exemplo-git-parte2
-VSCODE é complicado
+Texto modificado dentro da branch minha-modificacao.
